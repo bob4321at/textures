@@ -1,4 +1,4 @@
-module textures
+module github.com/bob4321at/textures
 
 go 1.23.8
 
