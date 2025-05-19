@@ -1,6 +1,6 @@
 module github.com/bob4321at/textures
 
-go 1.23.0
+go 1.23.8
 
 require github.com/hajimehoshi/ebiten/v2 v2.8.8
 
